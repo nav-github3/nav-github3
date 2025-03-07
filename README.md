@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a Computer Science student and a Full-Stack Developer passionate about building projects and collaborating on innovative ideas. I love working with modern technologies to create impactful solutions.<br><br>🚀 Currently, I'm honing my skills through hands-on projects and looking for opportunities to collaborate on exciting developments.<br><br>💼 I'm also seeking an internship to gain industry experience and contribute to real-world applications.<br><br>Let's connect and build something amazing together! 🚀✨
+👋 Hi there! I'm a Navneet Computer Science student and a Full-Stack Developer<br>🚀 Currently, I'm honing my skills through hands-on projects and looking for Internship<br>Let's connect and build something amazing together! 🚀✨
 
 
 ## 🌐 Socials:
